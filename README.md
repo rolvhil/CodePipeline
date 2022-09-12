@@ -3,7 +3,7 @@ A simple CodePipeline for deploying resources like
     
 - VPC and subnets
     
-- Private EKS cluster
+- EKS cluster
     
 - EKS self managed nodegroup
 
